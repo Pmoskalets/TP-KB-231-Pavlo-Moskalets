@@ -4,10 +4,10 @@
 
 # already sorted list
 list = [
-    {"name":"Bob", "phone":"0631234567", "years":"18", "email":"bob@exmp.com"},
-    {"name":"Emma", "phone":"0631234567", "years":"22", "email":"emma@exmp.com"},
-    {"name":"Jon",  "phone":"0631234567", "years":"19", "email":"jon@exmp.com"},
-    {"name":"Zak",  "phone":"0631234567", "years":"20", "email":"zak@exmp.com"}
+    {"name":"Bob", "phone":"0631234567", "years":"15", "email":"bob@exmp.com"},
+    {"name":"Emma", "phone":"0631234567", "years":"17", "email":"emma@exmp.com"},
+    {"name":"Jon",  "phone":"0631234567", "years":"22", "email":"jon@exmp.com"},
+    {"name":"Zak",  "phone":"0631234567", "years":"19", "email":"zak@exmp.com"}
 ]
 
 def printAllList():
